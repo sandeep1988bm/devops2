@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello test2 updated 2
+=======
+hello test2 updated
+>>>>>>> 5451cf1c836886fcf21da2d56fa58c3336619a82
